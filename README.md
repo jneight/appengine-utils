@@ -1,4 +1,4 @@
 appengine-utils
 ===============
 
-Some utils and snippets for development in GoogleAppEngine
+Some utilities and snippets for development in GoogleAppEngine
